@@ -396,5 +396,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1559677082049366465, guid: 75155a977072bdf4b8997d8a7350593d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1591498286}
+    - target: {fileID: 1559677082049366465, guid: 75155a977072bdf4b8997d8a7350593d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetActive
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75155a977072bdf4b8997d8a7350593d, type: 3}
+--- !u!1 &1591498286 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1559677081768926119, guid: 75155a977072bdf4b8997d8a7350593d, type: 3}
+  m_PrefabInstance: {fileID: 1384938694}
+  m_PrefabAsset: {fileID: 0}
